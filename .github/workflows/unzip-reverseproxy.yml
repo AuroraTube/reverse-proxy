@@ -22,7 +22,7 @@ jobs:
           rm -rf temp_extract
 
       - name: Delete this workflow
-        run: rm -f .github/workflows/unzip-auroratube.yml
+        run: rm -f .github/workflows/unzip-reverseproxy.yml
 
       - name: Commit and push changes
         run: |
