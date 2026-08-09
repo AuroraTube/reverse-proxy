@@ -4,7 +4,7 @@
 
 ## デフォルト転送先
 
-`https://auroratube.himajindayo.workers.dev`
+`https://auroratube.yosshy-123.workers.dev`
 
 ## セットアップ
 
@@ -24,7 +24,7 @@ npm start
 
 | 変数名 | 説明 | デフォルト |
 |--------|------|------------|
-| `TARGET_URL` | プロキシ先のURL | `https://auroratube.himajindayo.workers.dev` |
+| `TARGET_URL` | プロキシ先のURL | `https://auroratube.yosshy-123.workers.dev` |
 | `PORT` | 待ち受けポート | `3000` |
 
 ## 開発時（ファイル変更で自動再起動）

@@ -6,7 +6,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 
 const PORT = process.env.PORT || 3000;
-const TARGET = process.env.TARGET_URL || 'https://auroratube.himajindayo.workers.dev';
+const TARGET = process.env.TARGET_URL || 'https://auroratube.yosshy-123.workers.dev';
 
 app.use(
   '/',
